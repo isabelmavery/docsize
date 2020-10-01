@@ -5,9 +5,10 @@ Automating Doc Size analysis:
 Download repo, you can exclude the jupyter notebook. You may need to follow the QuickStart setup in Google Sheets API here in order to generate auth:
 https://developers.google.com/sheets/api/quickstart/python.
 
-Dependencies, python3, pip, beautifulsoup4:
+Dependencies, python3, pip, beautifulsoup4, google-api-python-client, google-auth-httplib2, google_auth_oauthlib:
 ```python3 install pip```
 ```python3 -m pip install bs4```
+```pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib```
 
 ### Run program
 1. Open spread sheet and change URL to one that you are interested in investigating the doc size of:
