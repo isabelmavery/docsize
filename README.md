@@ -2,7 +2,7 @@
 Automating Doc Size analysis:
 
 ### Set up:
-Download the files in python folder. May need to follow the QuickStart setup in Google Sheets API here in order for it to run correctly:
+Download repo, you can exclude the jupyter notebook. You may need to follow the QuickStart setup in Google Sheets API here in order to generate auth:
 https://developers.google.com/sheets/api/quickstart/python.
 
 Dependencies, python3, pip, beautifulsoup4:
