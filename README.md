@@ -11,7 +11,7 @@ Dependencies, python3, pip, beautifulsoup4:
 
 ### Run program
 1. Open spread sheet and change URL to one that you are interested in investigating the doc size of:
-https://docs.google.com/spreadsheets/d/1eVV4O_HcU_BiETm3AyHIPgmXO9FMdBGGwwf6k-T31fc/edit#gid=0&range=A3:B32
+https://docs.google.com/spreadsheets/d/1eVV4O_HcU_BiETm3AyHIPgmXO9FMdBGGwwf6k-T31fc/edit#gid=0
 
 2. In your working directory run ```python3 quickstart.py```
 
